@@ -1,4 +1,5 @@
 # Room - SleepQualityTracker app
+[![Build Status](https://app.bitrise.io/app/a729644ffaccbd6c/status.svg?token=S_cRiJIEH8LGQdC89Bcx1g)](https://app.bitrise.io/app/a729644ffaccbd6c)
 
 This is the toy app for Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
